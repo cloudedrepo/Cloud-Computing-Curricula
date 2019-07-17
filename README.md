@@ -20,6 +20,10 @@ To create an open community around sharing cloud computing resources for teachin
 
 The group is running a survey to learn about existing cloud-related courses.  Please take 5-10 minutes to fill this survey about cloud-related courses at your institution: [Cloud Survey 2019](https://forms.gle/MYz2iX5J8UBigwQG7)
 
+## Community 
+
+The group is running a online community around the development of cloud-related courses, if your interested in joining the Online Community please click [here](https://spectrum.chat/cloudedrepo)
+
 ## Publications
 
 The paper ['Cloud computing: developing contemporary computer science curriculum for a cloud-first future'](https://dl.acm.org/citation.cfm?id=3295781&dl=ACM&coll=DL) was published by the working group in 2018 and led to the creation of [Knowledge Areas](Core/KAs/KAs.md) for developing cloud computing curricula.
