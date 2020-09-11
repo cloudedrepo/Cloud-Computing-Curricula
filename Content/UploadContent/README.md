@@ -1,4 +1,3 @@
-# Content
+## Uploaded Content Folder for user generated content 
 
-Please ensure all uploaded materials and resources are placed in the content upload folder.
-
+Files which are uploaded to this folder are based on user generated content.

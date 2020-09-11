@@ -4,7 +4,7 @@
 
 Log into your GitHub account from a browser.
 
-Open a browser and go to the main GitHub repo [cloudcomputingCurriculum](https://github.com/cloudedrepo/Cloud-Computing-Curricula).
+Open a browser and go to the main GitHub repo [cloudcomputingCurriculum](https://github.com/cloudcomputingcurricula/Cloud-Computing-Curricula).
 
 ### Fork the repo
 - Fork this repo by using the "Fork" button at the top of the screen.
@@ -22,7 +22,7 @@ If you've previously forked the repo, instead you will need to do [a pull reques
 
 ### Submit a pull request 
 - Once you are done with all changes, click on the "New Pull Request" button at the top of the main repo page.
-- Ensure that the direction of the pull is to `base repository: cloudedrepo/Cloud-Computing-Curricula, base:master` from your repo.
+- Ensure that the direction of the pull is to `base repository: cloudcomputingcurricula/Cloud-Computing-Curricula, base:master` from your repo.
 - If you have changes, you will see “Able to merge” notification and will be able to commit by clicking on ”Create pull request” button. 
   - Enter any comments necessary and click the “Create pull request” button again. 
 

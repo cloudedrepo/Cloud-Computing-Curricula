@@ -28,12 +28,12 @@ cd Cloud-Computing-Curricula
         sudo git push
         ```
         
-[THIS PROBABLY IS NOT NEEDED]    - [you may get an error message if someone else has already committed changes to the master repository while you are working on your updates. the error message will state something like "following changes since commit..." on master repository at https://github.com/cloudedrepo/Cloud-Computing-Curricula.git. in that case, run the following command:]
-        - sudo git pull https://github.com/cloudedrepo/Cloud-Computing-Curricula.git
+[THIS PROBABLY IS NOT NEEDED]    - [you may get an error message if someone else has already committed changes to the master repository while you are working on your updates. the error message will state something like "following changes since commit..." on master repository at https://github.com/cloudcomputingcurricula/Cloud-Computing-Curricula.git. in that case, run the following command:]
+        - sudo git pull https://github.com/cloudcomputingcurricula/Cloud-Computing-Curricula.git
     
     
     - create a pull-request on the master repository
-        - sudo git request-pull master https://github.com/cloudedrepo/Cloud-Computing-Curricula.git
+        - sudo git request-pull master https://github.com/cloudcomputingcurricula/Cloud-Computing-Curricula.git
     
 
-If you'd prefer contribute from the browser, see [these instructions.](https://github.com/cloudedrepo/Cloud-Computing-Curricula/blob/master/Core/HowToContributeBrowser.md)
+If you'd prefer contribute from the browser, see [these instructions.](https://github.com/cloudcomputingcurricula/Cloud-Computing-Curricula/blob/master/Core/HowToContributeBrowser.md)

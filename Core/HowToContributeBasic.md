@@ -2,7 +2,7 @@
 ## An overview
 We welcome your contributions to our repository.  You may contribute original work or links to publically available works you have found useful.
 
-To add a contribution, create a pull request on the GitHub repo [cloudcomputingCurriculum](https://github.com/cloudedrepo/Cloud-Computing-Curricula):
+To add a contribution, create a pull request on the GitHub repo [cloudcomputingCurriculum](https://github.com/cloudcomputingcurricula/Cloud-Computing-Curricula):
 Copy `Module.md` to a new file with a name describing your contribution and add it to the `Content` folder.
 Update `Contributions.md` to include a link to your new module file.
 
@@ -14,6 +14,7 @@ In the file `Module.md`, update the sections as follows:
 * Author or Contributor (Optional): As much of your contact information as you would like to include.  Your basic information will be available through the GitHub history even if this section is omitted.  If you're willing to have others contact you, please include your prefered method of contact.
 * Content Link: the link or links to your contribution
 * Knowledge Area(s): Select the Knowledge Areas that are applicable
+* Material Theme(s): Select the appropriate themes for your material based on [these definitions](/Core/Themes.md).
 * Tags: words or short phrases to help others find your material
   * Level of study (Optional)
   * Cloud Vendor(s): If your contribution is specific to one or more vendors, list them here

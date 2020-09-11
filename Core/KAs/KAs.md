@@ -10,7 +10,7 @@ These are:
 * [Networking Resources on the Cloud](NRC.md) (NRC)
 * [Cloud Elasticity and Scalability](CES.md) (CES)
 * [Fault Tolerance, Resilience and Reliability](FTRR.md) (FTRR)
-* [Cloud Deployment, Monitoring and Maintenance](CDMM.md) (CDMM)
+* [Cloud Monitoring and Maintenance](CMM.md) (CMM)
 * [Cloud Orchestration](CO.md) (CO)
 * [Software Development using Cloud APIs](SDCA.md) (SDCA)
 * [Cloud Programming Models and Frameworks](CPMF.md) (CPMF)
