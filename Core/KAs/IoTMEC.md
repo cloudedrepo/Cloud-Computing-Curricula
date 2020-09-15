@@ -37,5 +37,5 @@ Each of the following Learning Objectives links to a list of materials that can 
 * [IoTMEC-EL10](LOs/IoTMEC-EL10.md):  	Verify data generated from the edge device.	 
 * [IoTMEC-EL11](LOs/IoTMEC-EL11.md):  	Discuss source control, reproducible training pipeline, model storage, and versioning, model packaging, model validation, deployment, monitoring models in production, and retraining of models in context for IoT Edge devices.	 
 * [IoTMEC-EL12](LOs/IoTMEC-EL12.md):  	Discuss IOT Cloud architectures and protocols including IOT Hubs, telemetry and digital twins.	 
-* [IoTMEC-EL13](LOs/IoTMEC-EL13.md):  	Implement an IoT Device Pipeline that uses Cloud data, data 
+* [IoTMEC-EL13](LOs/IoTMEC-EL13.md):  	Implement an IoT Device Pipeline that uses Cloud data, data processing, analysis and storage services. 
 
