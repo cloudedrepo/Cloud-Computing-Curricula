@@ -25,7 +25,7 @@ big data as well as experience of using these services.
 * [SRC-CL11: Discuss big data managed services in the cloud.](../Core/KAs/LOs/SRC-CL11.md)
 * [CAMIL-EL7: Analyze and visualize data using Cloud Services.](../Core/KAs/LOs/CAMIL-EL7.md)
 
-Topics for this Module:
+Topics for this Module (Google Cloud Platform Focused):
 
 * Cloud computing 
 * Cloud versus traditional architecture IaaS, PaaS, and SaaS 
@@ -35,3 +35,18 @@ Topics for this Module:
 * Recommendation systems and ML
 * Apache Spark 
 * Running recommendation models in the cloud using Cloud Dataproc and Cloud SQL
+
+Topics for this Module (Microsoft Azure Focused):
+
+* Concepts of Cloud Computing, its history and evolution
+* Cloud service models such as SaaS, PaaS and SaaS
+* Different types of cloud 
+* Common Azure data platform technologies 
+* Types of services available from cloud providers 
+* Features provided by cloud middleware 
+* Architecture of an Azure Databricks Spark Cluster
+* Architecture of a Spark Job
+* Resilient distributed datasets (RDDs) in Spark and basic operations on Spark RDDs
+* A simple iterative Spark program
+* Spark libraries and their functions
+
