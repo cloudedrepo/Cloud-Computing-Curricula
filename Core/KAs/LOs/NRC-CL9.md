@@ -1,4 +1,4 @@
-# NRC-CL9:  	Discuss how to build virtual private clouds.	 
+# NRC-CL9:  	Identify security issues and apply learned threat mitigation techniques at the multiple layers of the network.	 
 
 Supporting materials
 
