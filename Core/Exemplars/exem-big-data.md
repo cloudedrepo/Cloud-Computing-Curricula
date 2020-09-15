@@ -6,9 +6,6 @@ Undergraduate or postgraduate
 ## Credit Points: 
 50 hours (5 CATS points)
 
-## Module Code: 
-ACMWG7EXP-IBDACD-GCP
-
 ## Subject Area: 
 Cloud Computing, Managed Services, Big Data 
 
