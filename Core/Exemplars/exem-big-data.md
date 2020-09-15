@@ -21,9 +21,9 @@ big data as well as experience of using these services.
 
 ## Learning Objectives/Outcomes:
 
-* [FCC-CL1: Define the cloud computing concept, its history and motivation.](../../KAs/LOs/FCC-CL1.md)
-* [SRC-CL11: Discuss big data managed services in the cloud.](../../KAs/LOs/SRC-CL11.md)
-* [CAMIL-EL7: Analyze and visualize data using Cloud Services.](../../KAs/LOs/CAMIL-EL7.md)
+* [FCC-CL1: Define the cloud computing concept, its history and motivation.](../KAs/LOs/FCC-CL1.md)
+* [SRC-CL11: Discuss big data managed services in the cloud.](../KAs/LOs/SRC-CL11.md)
+* [CAMIL-EL7: Analyze and visualize data using Cloud Services.](../KAs/LOs/CAMIL-EL7.md)
 
 Topics for this Module (Google Cloud Platform Focused):
 
