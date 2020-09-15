@@ -61,3 +61,7 @@ Each of the following Learning Objectives links to a list of materials that can 
 * [CAC-EL2](LOs/CAC-EL2.md):    Utilize virtualization to deploy virtual machines on cloud resources.
 * [CAC-EL3](LOs/CAC-EL3.md):    Develop and deploy a service utilizing FaaS using APIs that are provided as an auto-scaling service.
 * [CAC-EL4](LOs/CAC-EL4.md):    Given a scenario with a set of requirements, determine the best computation type and give the reasons for this decision.
+* [CAC-EL5](LOs/CAC-EL5.md):    Deploy an application or service which utilizes specialized hardware resources.
+* [CAC-EL6](LOs/CAC-EL6.md):    Explore the use of Microservice Architecture and components within Cloud based services.
+* [CAC-EL7](LOs/CAC-EL7.md):    Explore the use of Serverless architectures and components within Cloud based services.
+
