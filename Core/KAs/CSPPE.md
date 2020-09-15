@@ -28,7 +28,7 @@ Each of the following Learning Objectives links to a list of materials that can 
 * [CSPPE-CL17](LOs/CSPPE-CL17.md):  	List some of the prominent threats to cloud security.	 
 * [CSPPE-CL18](LOs/CSPPE-CL18.md):  	Explain the concept of multilayered cloud data security and why it is necessary.	 
 * [CSPPE-CL19](LOs/CSPPE-CL19.md):  	Explain some of the services offered by data-security platforms and the integrated security services offered by cloud service providers.	 
-* [CSPPE-CL2](LOs/CSPPE-CL2.md):  	Discuss why regulatory compliance is important and list some of the regulations and how that applies to cloud systems.	 
+* [CSPPE-CL20](LOs/CSPPE-CL20.md):  	Discuss why regulatory compliance is important and list some of the regulations and how that applies to cloud systems.	 
 * [CSPPE-CL21](LOs/CSPPE-CL21.md):  	Explain how a multi-layered security strategy provides protection against different and potentially unrelated attack vectors.	 
 * [CSPPE-CL22](LOs/CSPPE-CL22.md):  	Discuss the security requirements for deploying applications on the cloud.	 
 * [CSPPE-CL23](LOs/CSPPE-CL23.md):  	Explain the concept of multilayered data security and why it is necessary.	 
