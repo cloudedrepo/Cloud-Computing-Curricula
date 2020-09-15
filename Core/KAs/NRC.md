@@ -20,7 +20,7 @@ Each of the following Learning Objectives links to a list of materials that can 
 * [NRC-CL7](LOs/NRC-CL7.md):  	Identify elasticity, federation and interoperability in cloud utilization.	 
 * [NRC-CL8](LOs/NRC-CL8.md):  	Explain the importance of interoperability in utilizing multiple cloud networking resources.	 
 * [NRC-CL9](LOs/NRC-CL9.md):  	Identify security issues and apply learned threat mitigation techniques at the multiple layers of the network.	 
-* [NRC-CL9](LOs/NRC-CL9.md):  	Discuss how to build virtual private clouds.	 
+* [NRC-CL10](LOs/NRC-CL10.md):  Discuss how to build virtual private clouds.	 
 
 ## Experiental Learning Objectives
 
