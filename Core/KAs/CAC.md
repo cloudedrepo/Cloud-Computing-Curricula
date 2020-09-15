@@ -46,7 +46,7 @@ Each of the following Learning Objectives links to a list of materials that can 
 
 ## Conceptual Learning Objectives
 
-* [CAC-CL1](LOs/CAC-CL1.md):    Discuss compute, network and storage virtualization and outline their role in enabling the cloud computing system model. Identify reasons why virtualization is useful, especially on the cloud.
+* [CAC-CL1](LOs/CAC-CL1.md):    Discuss compute, network and storage virtualization and outline their role in enabling the cloud computing system model.
 * [CAC-CL2](LOs/CAC-CL2.md):    Describe how containers achieve lightweight virtualization.
 * [CAC-CL3](LOs/CAC-CL3.md):    Describe the advantages and disadvantages of containers compared to virtual machines.
 
