@@ -2,4 +2,10 @@
 
 Supporting materials
 
-* First item
+* [CloudAdmin_Azure_M08]():()
+* [X-Linked-Intro]():()
+* [AWSACA]():()
+* [IBM-ST-SWAAMR]():()
+* [IBM-ST-AEESCA]():()
+
+								
