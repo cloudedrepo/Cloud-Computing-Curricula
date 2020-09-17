@@ -28,9 +28,9 @@ Requires a GitHub and IBM Cloud Account.
    IBM Cloud
 
 ## General Tags: 
-   Cloud Computing, Cloud Architectures, IaaS, PaaS, SaaS
+   Cloud Computing, Cloud Naive Development, Containers, Kubernetes. CI/CD
 
 ## Prerequisites: 
-   None
+   Knowledge of linux shell
 
 ## License: 
