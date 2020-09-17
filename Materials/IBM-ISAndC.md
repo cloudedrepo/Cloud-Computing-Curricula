@@ -11,7 +11,8 @@ Does not appear to include hands on lab exercises.
 
 
 ## Summary: 
-   
+This short course provides an overview of cloud computing and storage. 
+
 * Summarize the key characteristics 
 of cloud environments
 * Summarize the key components of 
