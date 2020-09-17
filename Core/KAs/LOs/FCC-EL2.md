@@ -6,6 +6,6 @@ Supporting materials
 * [CloudAdmin_Azure_M02]():()
 * [AWSACA]():()
 * [AWSACD]():()
-* [IBM-IICfD]():()
+* [IBM-IICfD](../../../Materials/IBM-IICfD.md): Introduction to IBM Cloud for Developers(Videos, notes, quiz)
 
 													
