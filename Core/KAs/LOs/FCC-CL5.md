@@ -2,11 +2,11 @@
 
 Supporting materials
 
-* [GCCFM1]():()
+* [GCCFM1](../../../Materials/GCCFM1.md): So, What's the Cloud Anyway? (Slides, Lecture Notes, Lab)
 * [CloudAdmin_Azure_M01]():()
-* [X-Linked-Intro]():()
+* [X-Linked-Intro](../../../Materials/X-Linked-Intro.md): Learning Cloud Computing: Core Concepts (Videos)
 * [AWSACF]():()
 * [AWSACA]():()
-* [IBM-CNB]():()
+* [IBM-CND](../../../Materials/IBM-CND.md): BM Cloud Native Bootcamp (Videos, notes, quiz, project)
 
 																			
