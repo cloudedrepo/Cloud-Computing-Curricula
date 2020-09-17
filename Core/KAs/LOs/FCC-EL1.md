@@ -4,7 +4,7 @@ Supporting materials
 
 * [GCCFM3]():()
 * [CloudAdmin_Azure_M02]():()
-* [IBM-STMVMK]():()
+* [IBM-ST-MVMK](../../../Materials/IBM-ST-MVMK.md): Moving a VM based app to Kubernetes(Tutorial)
 * [AWSACF]():()
 * [AWSACA]():()
 
