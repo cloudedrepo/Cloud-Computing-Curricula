@@ -2,7 +2,7 @@
 
 Supporting materials
 
-* [GCCFM1]():()
+* [GCCFM1](../../../Materials/GCCFM1.md): So, What's the Cloud Anyway? (Slides, Lecture Notes, Lab)
 * [CloudAdmin_Azure_M01]():()
 * [AWSACF]():()
 
