@@ -4,7 +4,7 @@ Supporting materials
 
 * [[QLVM]]():()
 * [CloudAdmin_Azure_M02]():()
-* [IBM-STMVMK]():()
+* [IBM-STMVMK](../../../Materials/IBM-STMVMK.md): Moving a VM based app to Kubernetes (Videos, notes, quiz)
 * [AWSACA]():()
 * [AWSACD]():()
 
