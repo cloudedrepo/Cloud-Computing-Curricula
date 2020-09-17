@@ -7,6 +7,6 @@ Supporting materials
 * [X-Linked-Intro](../../../Materials/X-Linked-Intro.md): Learning Cloud Computing: Core Concepts (Videos)
 * [AWSACF]():()
 * [AWSACA]():()
-* [IBM-CND](../../../Materials/IBM-CND.md): BM Cloud Native Bootcamp (Videos, notes, quiz, project)
+* [IBM-CNB](../../../Materials/IBM-CNB.md): BM Cloud Native Bootcamp (Videos, notes, quiz, project)
 
 																			
