@@ -2,8 +2,7 @@
 
 ## Type of resource:
 * Online course: 
-Each module provides an online video lecture.
-Does not include any quizes or lab exercises.
+Provides online material for the student to work through.
 
 
 ## Summary: 
