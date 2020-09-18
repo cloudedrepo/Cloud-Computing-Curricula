@@ -7,6 +7,6 @@ Supporting materials
 * [X-Linked-Intro](../../../Materials/X-Linked-Intro.md): Learning Cloud Computing: Core Concepts (Videos)
 * [IBM-ISAndC](../../../Materials/IBM-ISAndC.md): Introduction to IBM Storage and Cloud (Videos, notes, quiz)
 * [IBM-IICfD](../../../Materials/IBM-IICfD.md): Introduction to IBM Cloud for Developers(Videos, notes, quiz)
-* [LQ-CCB]():()
-* [LFEDX-ICIT](../../../Materials/LFEDX-ICIT.md): Introduction to Cloud Infrastructure Technologies (Online course)
+* [LQ-CCB](../../../Materials/LQ-CCB.md): Cloud Computing Basics (Cloud 101) (Videos, notes)
+* [LFEDX-ICIT](../../../Materials/LFEDX-ICIT.md): Introduction to Cloud Infrastructure Technologies (One course)
 * [learn.cmu-cloud-computing.cloud-basics.cmu-cloud-computing-overview]():()
