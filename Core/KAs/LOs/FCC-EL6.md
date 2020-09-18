@@ -4,7 +4,7 @@ Supporting materials
 
 * [[QLVM]]():()
 * [CloudAdmin_Azure_M02]():()
-* [IBM-ST-MVMK](../../../Materials/IBM-ST-MVMK.md): Moving a VM based app to Kubernetes (Videos, notes, quiz)
+* [IBM-ST-MVMK](../../../Materials/IBM-ST-MVMK.md): Moving a VM based app to Kubernetes (Tutorial)
 * [AWSACA]():()
 * [AWSACD]():()
 
