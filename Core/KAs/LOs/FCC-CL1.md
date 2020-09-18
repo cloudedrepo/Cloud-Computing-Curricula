@@ -8,5 +8,5 @@ Supporting materials
 * [IBM-ISAndC](../../../Materials/IBM-ISAndC.md): Introduction to IBM Storage and Cloud (Videos, notes, quiz)
 * [IBM-IICfD](../../../Materials/IBM-IICfD.md): Introduction to IBM Cloud for Developers(Videos, notes, quiz)
 * [LQ-CCB]():()
-* [LFEDX-ICIT]():()
+* [LFEDX-ICIT](../../../Materials/LFEDX-ICIT.md): Introduction to Cloud Infrastructure Technologies (Online course)
 * [learn.cmu-cloud-computing.cloud-basics.cmu-cloud-computing-overview]():()
