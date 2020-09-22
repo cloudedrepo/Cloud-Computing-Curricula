@@ -49,4 +49,9 @@ Topics for this Module (Microsoft Azure Focused):
     * Trust 
     * Pricing
     * Support services
+* Application Implementation
+    * Application Development using Azure Compute
+    * Securing Cloud applications
+    * CD/CI Pipelines and Azure DevOps
+    
 
