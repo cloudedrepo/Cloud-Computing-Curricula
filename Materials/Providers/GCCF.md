@@ -4,11 +4,9 @@ The Google Cloud Computing Foundation faculty-led curriculum is intended for stu
 
 ##  Access:
 
-More details, eligibility requirements, and application are available at [this site](https://edu.google.com/programs/cloud-computing-curriculum/?modal_active=none).  
-The program is currently only available to faculty members atr degree granting, accredited higher education institutions in 43 countries.
+More details, eligibility requirements, and application are available at [this site](https://edu.google.com/programs/cloud-computing-curriculum/?modal_active=none).   The program is currently only available to faculty members at degree granting, accredited higher education institutions in 43 countries.
 
-There is no charge for this material.  
-Faculty intending to use it are strongly encouraged to also use the suggested [Qwiklabs](Qwiklabs.md) to get access to the suggesteed hands-on labs.
+There is no charge for this material.  Faculty intending to use it are strongly encouraged to also use the suggested [Qwiklabs](Qwiklabs.md) to get access to the suggesteed hands-on labs.
 
 ## License: 
 
