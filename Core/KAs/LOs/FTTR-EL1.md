@@ -2,4 +2,4 @@
 
 Supporting materials
 
-* First item
+* [GCCFM3](../../../Materials/GCCFM3.md): Use GCP to Build Your Apps (Slides, Lecture Notes, Lab)
