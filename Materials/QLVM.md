@@ -7,7 +7,7 @@ Hands-on lab (no cloud account required)
 
 In this hands-on lab, you'll create virtual machine instances of various machine types using the Google Cloud Console and the gcloud command line. You'll also learn how to connect an NGINX web server to your virtual machine.
 
-This lab can apply to the following [Qwiklab Quests](Providers/QwiklabsQuests.md):
+This lab can apply to the following Qwiklab Quests:
 * [Google Cloud Essentials](QLQuestGoogleCloudEssentials.md)
 * [Create and Manage Cloud Resources](QLQuestCreateandManageCloudResources.md)
 
