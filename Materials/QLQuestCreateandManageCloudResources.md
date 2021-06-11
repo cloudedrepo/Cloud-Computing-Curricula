@@ -1,6 +1,6 @@
 ## Title: [Create and Manage Cloud Resources](https://google.qwiklabs.com/quests/23) (Qwiklab Skill Badge)
 
-The quest version of this is available in [Google Cloud Essentials](QLQuestGoogleCloudEssentials.md).
+The quest version of this is available in [Google Cloud Essentials](QLQuestGCEssentials.md).
 
 ## Type of resource
 Collection of hands-on labs (no cloud account required)
