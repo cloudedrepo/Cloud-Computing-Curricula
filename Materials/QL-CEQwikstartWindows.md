@@ -10,8 +10,8 @@ In this hands-on lab, you learn how to launch a Windows Server instance in Compu
 This lab can apply to the following Qwiklabs Quests:
 
 
-* [Google Cloud Essentials](Materials/QLQuestGCEssentials.md)
-* [Create and Manage Cloud Resources](Materials/QLQuestCreateandManageCloudResources.md)
+* [Google Cloud Essentials](QLQuestGCEssentials.md)
+* [Create and Manage Cloud Resources](QLQuestCreateandManageCloudResources.md)
 
 ## Access: 
    Access may be available at no cost.  See the material at [Qwiklabs](Providers/Qwiklabs.md).
