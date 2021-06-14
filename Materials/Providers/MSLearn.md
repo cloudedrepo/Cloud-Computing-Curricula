@@ -6,8 +6,8 @@ Many quests come with an extra challenge lab (that gives desired results but not
 
 ## Link:
 
-[Microsoft Learn](https://docs.microsoft.com/learn/roles/educator/)
-[Microsoft Learn for Educators Programme](https://docs.microsoft.com/learn/roles/educator/learn-for-educators-overview)
+- [Microsoft Learn](https://docs.microsoft.com/learn/roles/educator/)
+- [Microsoft Learn for Educators Programme](https://docs.microsoft.com/learn/roles/educator/learn-for-educators-overview)
 ##  Access:
 
 This is a FREE services no charge.  
