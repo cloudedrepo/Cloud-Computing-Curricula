@@ -8,7 +8,7 @@ To bring Microsoft Learn's content into the classroom, we've made a Learning Too
 
 Educators and Institutions can leverage the LTI application to integrate Microsoft Learn Modules and Learning Paths into their curricula while providing hands-on experiences with Azure and other Microsoft technologies. Learners will be routed from their LMS to Microsoft Learn, where they can accrue experience points and achievements as well as track progress on learning activities.
 
-The Microsoft Learn LTI Application adheres to [v1.1](https://www.imsglobal.org/specs/ltiv1p1) and [v1.3](http://www.imsglobal.org/spec/lti/v1p3/) standards. For more specifics on the application itself, check out the [Architecture Overview](./docs/ARCHITECTURE_OVERVIEW.md).
+The Microsoft Learn LTI Application adheres to [v1.1](https://www.imsglobal.org/specs/ltiv1p1) and [v1.3](http://www.imsglobal.org/spec/lti/v1p3/) standards. For more specifics on the application itself, check out the [Architecture Overview](http://github.com/microsoft/learn-lti/tree/main/docs/ARCHITECTURE_OVERVIEW.md).
 
 ### Key Features: ###
 - **Single Sign-On** (SSO) - users only have to sign into their institution once to access the Learn LTI application
@@ -24,7 +24,7 @@ Typically, there will be four roles involved in deploying, configuring, and usin
 4. **Students** – The users of the LMS who will consume the learning provisioned to them by the Educators.
 
 The following visual illustrates the workflow in full:
-![Readme.1.png](http://github.com/microsoft/learn-lti/blob/main/images/Readme.1.png)
+![Readme.1.png](https://github.com/microsoft/learn-lti/blob/main/images/Readme.1.png)
 
 To deploy the Microsoft Learn LTI application, the Central IT / IT Admin will need:
 
