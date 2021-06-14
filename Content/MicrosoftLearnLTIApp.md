@@ -1,6 +1,6 @@
 # Microsoft Learn LTI Application 
 
-![Learn LTI Application](http://github.com/microsoft/learn-lti/tree/main/images/Learn-lti.png)
+![Learn LTI Application](https://github.com/microsoft/Learn-LTI/blob/main/images/Learn-lti.png)
 ### About ###
 [Microsoft Learn](https://docs.microsoft.com/learn/?WT.mc_id=edna) is a free, online training platform that provides interactive learning resources for Microsoft products and cutting edge technologies. Our goal is to empower students and educators to learn about technology through fun, guided, hands-on content aimed at specific learning goals. 
 
@@ -24,7 +24,7 @@ Typically, there will be four roles involved in deploying, configuring, and usin
 4. **Students** – The users of the LMS who will consume the learning provisioned to them by the Educators.
 
 The following visual illustrates the workflow in full:
-![Readme.1.png](http://github.com/microsoft/learn-lti/tree/main//images/Readme.1.png)
+![Readme.1.png](http://github.com/microsoft/learn-lti/blob/main/images/Readme.1.png)
 
 To deploy the Microsoft Learn LTI application, the Central IT / IT Admin will need:
 
@@ -32,18 +32,18 @@ To deploy the Microsoft Learn LTI application, the Central IT / IT Admin will ne
 - You need to be the **owner** of an Azure subscription
 - IT administrator privileges to create an Azure resource
 - [Getting Started Overview](https://techcommunity.microsoft.com/t5/educator-developer-blog/getting-started-with-the-microsoft-learn-lti-application/ba-p/2247034)
-- Microsoft Learn LTI application [Setup presentation](./docs/Microsoft%20Learn%20LTI%20Application.pdf) 
+- Microsoft Learn LTI application [Setup presentation](http://github.com/microsoft/learn-lti/tree/main/docs/Microsoft%20Learn%20LTI%20Application.pdf) 
 
 # Table of Contents
 
-1. [Deployment Guide](http://github.com/microsoft/learn-lti/tree/main//docs/DEPLOYMENT_GUIDE.md)
-2. [Configuration Guide](http://github.com/microsoft/learn-lti/tree/main//docs/CONFIGURATION_GUIDE.md)
-3. [Educator Guide](http://github.com/microsoft/learn-lti/tree/main//docs/USER_GUIDE.md)
-4. [Student Guide](http://github.com/microsoft/learn-lti/tree/main//docs/STUDENT_GUIDE.md)
+1. [Deployment Guide](http://github.com/microsoft/learn-lti/tree/main/docs/DEPLOYMENT_GUIDE.md)
+2. [Configuration Guide](http://github.com/microsoft/learn-lti/tree/main/docs/CONFIGURATION_GUIDE.md)
+3. [Educator Guide](http://github.com/microsoft/learn-lti/tree/main/docs/USER_GUIDE.md)
+4. [Student Guide](http://github.com/microsoft/learn-lti/tree/main/docs/STUDENT_GUIDE.md)
 5. [Architecture Overview](http://github.com/microsoft/learn-lti/tree/main//docs/ARCHITECTURE_OVERVIEW.md)
-6. [Pricing Structure](http://github.com/microsoft/learn-lti/tree/main//docs/PRICING_STRUCTURE.md)
-7. [Take it Further](http://github.com/microsoft/learn-lti/tree/main//docs/TAKE_IT_FURTHER.md)
-8. [Frequently Asked Questions](http://github.com/microsoft/learn-lti/tree/main//docs/FAQ.md)
-9. [Troubleshooting](http://github.com/microsoft/learn-lti/tree/main//docs/TROUBLESHOOTING.md)
-10. [Security](http://github.com/microsoft/learn-lti/tree/main//docs/SECURITY.md)
-11. [Privacy](http://github.com/microsoft/learn-lti/tree/main//docs/PRIVACY.md)
+6. [Pricing Structure](http://github.com/microsoft/learn-lti/tree/main/docs/PRICING_STRUCTURE.md)
+7. [Take it Further](http://github.com/microsoft/learn-lti/tree/main/docs/TAKE_IT_FURTHER.md)
+8. [Frequently Asked Questions](http://github.com/microsoft/learn-lti/tree/main/docs/FAQ.md)
+9. [Troubleshooting](http://github.com/microsoft/learn-lti/tree/main/docs/TROUBLESHOOTING.md)
+10. [Security](http://github.com/microsoft/learn-lti/tree/main/docs/SECURITY.md)
+11. [Privacy](http://github.com/microsoft/learn-lti/tree/main/docs/PRIVACY.md)
