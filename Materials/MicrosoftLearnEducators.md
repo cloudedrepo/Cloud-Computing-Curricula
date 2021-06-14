@@ -2,7 +2,7 @@
 
 As an educator, you play a pivotal role in empowering students for future success! At Microsoft, we’re committed to enabling and supporting you with this mission. Microsoft Learn for Educators takes the best of Microsoft Learn online learning paths and helps you to bring this and the instructor-led training materials from Microsoft into your courses. Eligible educators and faculty members at colleges, universities, community colleges, polytechnics, and secondary schools can access Microsoft ready-to-teach curriculum and teaching materials aligned to industry-recognized Microsoft Certifications. These certifications augment a student’s existing degree path and validate the skills needed to be successful across various technical careers.
 
-[Program options](https://docs.microsoft.com/en-us/learn/roles/educator/learn-for-educators-overview)
+[Program options](https://docs.microsoft.com/learn/roles/educator/learn-for-educators-overview)
 Are you a faculty member looking to build your students’ technical skills? Is your department or institution looking to transform its technology curriculum to prepare students for future careers? Look at our options to determine which approach is right for you.
 
 PROGRAM OPTIONS
@@ -43,7 +43,8 @@ Educator teaching guide: General course information to prepare for teaching deli
 Assessment guide: Guidance on how to develop formative and summative assessments for students
 
 ## Access: 
-   Access https://docs.microsoft.com/en-us/learn/roles/educator/learn-for-educators-overview.
+- Microsoft Learn https://docs.microsoft.com/learn/roles/educator
+- Microsoft Learn for Educators https://docs.microsoft.com/learn/roles/educator/learn-for-educators-overview.
 
 ## Intended Level of Course Materials: 
    - Fundamental 
