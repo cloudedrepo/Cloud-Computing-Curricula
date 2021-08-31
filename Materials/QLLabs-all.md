@@ -7,7 +7,7 @@ Here are all the QwikLabs currently indexed here.  To see all Qwiklabs, consult 
 ## Introductory Labs
 
 * [A Tour of Qwiklabs and Google Cloud](QL-ATourofQwiklabs.md)
-* [Creating a Virtual Machine](QLVM.md)
+* [Creating a Virtual Machine](QL-VM.md)
 * [ComputeEngineQwikStart-Windows](QL-CEQwikstartWindows.md)
 * [Getting Started with Cloud Shell and gcloud](QL-GettingStartedwithCloudShell.md)
 * [Kubernetes Engine: Qwik Start](QL-KubernetesEngineQwikStart.md)
