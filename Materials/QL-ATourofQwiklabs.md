@@ -5,7 +5,9 @@ Hands-on lab (no cloud account required)
 
 ## Summary
 
-In this introductory-level lab, you will take your first steps with Google Cloud by getting hands-on practice with the Cloud Console—an in-browser UI that lets you access and manage Google Cloud services. You will identify key features of Google Cloud and also learn about the details of the Qwiklabs environment. 
+In this introductory-level lab, you will take your first steps with Google Cloud by getting hands-on practice with the Cloud Console—an in-browser UI that lets you access and manage Google Cloud services. You will identify key features of Google Cloud and also learn about the details of the Qwiklabs environment.
+
+45 minutes
 
 This lab can apply to the following Qwiklabs Quests:
 
