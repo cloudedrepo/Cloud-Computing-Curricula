@@ -8,5 +8,10 @@ Here are all the QwikLabs currently indexed here.  To see all Qwiklabs, consult 
 
 * [A Tour of Qwiklabs and Google Cloud](QL-ATourofQwiklabs.md)
 * [Creating a Virtual Machine](QLVM.md)
-* [ComputerEngineQwikStart-Windows](QL-CEQwikstartWindows.md)
-*
+* [ComputeEngineQwikStart-Windows](QL-CEQwikstartWindows.md)
+* [Getting Started with Cloud Shell and gcloud](QL-GettingStartedwithCloudShell.md)
+* [Kubernetes Engine: Qwik Start](QL-KubernetesEngineQwikStart.md)
+* [Set Up Network and HTTP Load Balancers](QL-SetUpNetworkandHTTPLoadBalancers.md)
+
+## Challenge Labs
+* [Create and Manage Cloud Resources: Challenge Lab](QL-CreateandManageCloudResourcesChallengeLab.md)
