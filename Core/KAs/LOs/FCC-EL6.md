@@ -2,9 +2,9 @@
 
 Supporting materials
 
-* [[QLVM]]():()
+* [Creating a Virtual Machine](/Materials/QL-VM.md)
 * [CloudAdmin_Azure_M02]():()
-* [IBM-ST-MVMK](../../../Materials/IBM-ST-MVMK.md): Moving a VM based app to Kubernetes (Tutorial)
+* [IBM-ST-MVMK](/Materials/IBM-ST-MVMK.md): Moving a VM based app to Kubernetes (Tutorial)
 * [AWSACA]():()
 * [AWSACD]():()
 
