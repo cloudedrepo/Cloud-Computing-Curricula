@@ -7,8 +7,9 @@ Hands-on lab (no cloud account required)
 
 In this hands-on lab, you learn how to launch a Windows Server instance in Compute Engine and use Remote Desktop Protocol (RDP) to connect to it.
 
-This lab can apply to the following Qwiklabs Quests:
+40 minutes
 
+This lab can apply to the following Qwiklabs Quests:
 
 * [Google Cloud Essentials](QLQuestGCEssentials.md)
 * [Create and Manage Cloud Resources](QLQuestCreateandManageCloudResources.md)
@@ -23,7 +24,7 @@ This lab can apply to the following Qwiklabs Quests:
    Google Cloud Platform
 
 ## General Tags: 
-      Virtual machine, Windows
+   Virtual machine, Windows
       
 ## Prerequisites: 
 
