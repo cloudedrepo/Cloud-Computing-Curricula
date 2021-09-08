@@ -1,5 +1,7 @@
 # Cloud Computing Resources
 
+A good starting point is the [Knowledge Areas](Core/KAs/KAs.md).
+
 ## Resources
 
 See the [current contributions here](Contributions.md).
